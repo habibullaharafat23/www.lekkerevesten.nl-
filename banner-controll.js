@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://www.gonnaorder.com/wp-content/uploads/2023/11/logo.svg";
+var websiteLogo = "https://cdn.webshopapp.com/shops/141542/files/373013418/shakaloha-black-svg.svg";
 
 var logoWidth = "50px";
 
@@ -1156,5 +1156,4 @@ window.addEventListener("load", function() {
 	processCookies(categoriesCookies, restCodes);
 
 });
-
 
